@@ -1,1 +1,1 @@
-# odin-recipes
+The project, odin-recipes, is a project for The Odin Project. It is the first project, which is a page with links to recipes.
